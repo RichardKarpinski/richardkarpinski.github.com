@@ -1,0 +1,45 @@
+Pages:
+
+ * Home
+    - Intro page
+ * Credentials
+    - Credentials w/ brief explanations
+    - Brief biography
+    - Curriculum vitae
+ * Facilities & Staff
+    - Description and photos of facilities
+    - Names and positions of staff
+ * Procedures
+    - What procedures you do
+ * Insurance
+    - Insurance participation information
+ * Location
+    - Where the office is
+    - Map
+    - Directions by bus
+    - Directions by subway
+    - Directions by car
+    - Local parking
+ * Contact US
+    - Email and phone numbers
+ * FAQ
+    - All those "What is ..." items
+
+ * Axillary Hyperhidrosis Home
+    - Intro page
+ * Clinical
+ * Medical Treatments
+ * Surgical Options
+ * References
+ * Links
+    - eMedicine
+    - syndrome and diagnosis
+    - treatment
+    - sources
+    - references
+ * site map
+ * index
+
+ * Site Map
+ * Site Index
+

@@ -1,0 +1,74 @@
+define color-header             navy
+define color-header-text        white
+define color-name               white
+define color-navlink            #BAD9FF
+define color-navlink-current    #FFA4E7
+define color-navlink-hover      white
+define color-body-text          black
+define color-background         white
+
+body  {
+	color: color-body-text;
+	background-color: color-background;
+	margin-top: 0pt;
+	margin-right: 0pt;
+	margin-bottom: 0pt;
+	margin-left: 0pt;
+}
+#header, #footer  {
+	color: color-header-text;
+	background-color: color-header;
+}
+#header a, #footer a  {
+	text-decoration: none;
+	white-space: nowrap;
+}
+#name  {
+	color: color-name;
+	line-height: 100%;
+	margin-bottom: -13px;
+	padding-top: 9px;
+	padding-right: 9px;
+	padding-bottom: 9px;
+	padding-left: 9px;
+}
+#name a  {
+	color: color-name;
+}
+.navbar  {
+	color: color-header-text;
+}
+.navbar table  {
+	color: color-header-text;
+}
+.navbar a  {
+	color: color-navlink;
+}
+.navbar a.current  {
+	color: color-navlink-current;
+}
+.navbar a:hover  {
+	color: color-navlink-hover;
+}
+#content  {
+	margin-top: 13pt;
+	margin-right: 13pt;
+	margin-bottom: 13pt;
+	margin-left: 13pt;
+}
+#content h1  {
+}
+#content .caps  {
+	font-variant: small-caps;
+	font-weight: bold;
+	letter-spacing: 0.2ex;
+}
+#content ul  {
+	list-style-type: square;
+}
+#content a  {
+	text-decoration: inherit;
+}
+#content a:hover  {
+	text-decoration: underline;
+}

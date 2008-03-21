@@ -1,0 +1,163 @@
+define color-header-background  navy
+define color-header-dividers    aqua
+define color-header-headline    lightpink
+define color-navbar-text        gold
+define color-navbar-current     red
+define color-navbar-hover       yellow
+define color-navbar-visited     darksalmon
+define color-body-text          navy
+define color-background         lightpink
+define color-navlink            crimson
+define color-navlink-visited    green
+define color-navlink-hover      red
+define color-navlink-hover-bg   mistyrose
+define color-h1			navy
+define color-h2			cyan
+define color-h3			red
+
+/* COLOR CATEGORY REQUIREMENTS
+color-header-background  OK
+color-header-headline    OK
+color-navbar-text        OK
+color-navbar-visited     OK
+color-navbar-hover       OK
+color-navbar-current
+color-background
+color-body-text
+color-navlink            OK
+color-navlink-visited    OK
+color-navlink-hover      OK
+color-h1                 OK
+color-h2                 OK
+color-h3                 OK
+*/
+
+define font-style-base          font-size: 10pt; font-family: "Arial" sans-serif
+define font-style-name          font-size: 18pt; font-weight: bold
+define font-style-navbar        font-size: 10pt
+define font-style-navbar-link   font-weight: bold
+define font-style-content       /* font: same as base */
+define font-style-h1            font-size: 16pt
+define font-style-h2            font-size: 14pt
+define font-style-h3            font-size: 12pt
+
+
+body
+{
+    margin: 0pt;
+    color: color-body-text;
+    background: color-background;
+    font-style-base;
+}
+
+#header, #footer
+{
+    color: color-header-dividers;
+    background-color: color-header-background;
+}
+
+#header a, #footer a
+{
+    white-space: nowrap;
+    text-decoration: none;
+}
+
+#name
+{
+    padding: 9px;
+    margin-bottom: -13px;
+    line-height: 100%;
+    font-style-name;
+    color: color-header-headline;
+}
+
+#name a
+{
+    color: color-header-headline;
+}
+
+.navbar
+{
+    font-style-navbar;
+    color: color-navbar-text;
+}
+
+.navbar table
+{
+    color: color-header-dividers;
+}
+
+.navbar a
+{
+    font-style-navbar-link;
+    color: color-navbar-text;
+}
+
+.navbar a:visited
+{
+    color: color-navbar-visited;
+}
+
+.navbar a:hover
+{
+    color: color-navbar-hover;
+}
+
+.navbar a:active
+    color: color-navbar-current;
+}
+
+#content
+{
+    margin: 13pt;
+    font-style-content;
+}
+
+#content h1
+{
+    font-style-h1;
+    color: color-h1;
+}
+
+#content h2
+{
+    font-style-h2;
+    color: color-h2;
+}
+
+#content h3
+{
+    font-style-h3;
+    color: color-h3;
+}
+
+#content .caps
+{
+    font-weight: bold;
+    letter-spacing: 0.2ex;
+    font-variant: small-caps;
+}
+
+#content ul
+{
+    list-style-type: square;
+}
+
+#content a:link
+{
+    text-decoration: inherit;
+    color: color-navlink;
+}
+
+#content a:visited
+{
+    text-decoration: inherit;
+    color: color-navlink-visited;
+}
+
+#content a:hover
+{
+    text-decoration: underline;
+    color: color-navlink-hover;
+    background: color-navlink-hover-bg;
+}

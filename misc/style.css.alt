@@ -1,0 +1,111 @@
+define style-body
+    color: black;
+    background-color: white;
+    font-size: 10pt;
+    font-family: "Arial" sans-serif;
+define style-header
+    color: white;
+    background-color: navy;
+define style-header-link
+    color: #BAD9FF;
+    font-weight: bold;
+define style-header-link-current
+    color: #FFA4E7;
+define style-header-link-hover
+    color: white;
+define style-name
+    color: white;
+    font-size: 18pt;
+    font-weight: bold;
+define style-navbar
+    /* style: same as header */
+define style-metanav
+    font-size: 9pt;
+define style-h1
+    font-size: 16pt;
+
+body
+{
+style-body
+    margin: 0pt;
+}
+
+#header, #footer
+{
+style-header
+}
+#header a, #footer a
+{
+style-header-link
+    white-space: nowrap;
+    text-decoration: none;
+}
+
+#name
+{
+style-name
+}
+#name a
+{
+    color: color_name;
+}
+
+.navbar, .metanav
+{
+
+}
+
+.navbar
+{
+    color: color_header_text;
+    font_style_navbar;
+}
+.navbar a
+{
+    color: color_navlink;
+    font_style_navbar_link;
+}
+.navbar a.current
+{
+    color: color_navlink_current;
+}
+.navbar a:hover
+{
+    color: color_navlink_hover;
+}
+.metanav
+{
+    font_style_metanav;
+}
+.metanav
+{
+    font_style_metanav_link;
+}
+
+#content
+{
+    margin: 13pt;
+}
+#content h1
+{
+    font_style_h1;
+}
+#content .caps
+{
+    font-weight: bold;
+    letter-spacing: 0.2ex;
+    font-variant: small-caps;
+}
+#content ul
+{
+    list-style-type: square;
+}
+#content a
+{
+    text-decoration: inherit;
+}
+#content a:hover
+{
+    text-decoration: underline;
+}
+

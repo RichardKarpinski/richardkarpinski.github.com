@@ -1,0 +1,228 @@
+define color-header-background    #c000000
+define color-header-headline-emph aqua
+define color-header-headline      white
+
+define color-navbar-text          yellow
+define color-navbar-current       white
+define color-navbar-curr-underbar yellow
+define color-navbar-hover         white
+define color-navbar-hover-bkg     red
+define color-navbar-visited       red
+define color-navbar-divider       white
+define color-navbar-popup         silver
+
+define color-body-text            #666666
+define color-background           #ebe8df
+
+define color-navlink              navy
+define color-navlink-visited      #666666
+define color-navlink-hover        red
+define color-navlink-hover-bg     red2
+
+define color-h1 	          navy
+define color-h2		          cyan
+define color-h3		          red
+define color-h4		          red
+define color-h5		          red
+define color-h6		          red
+define color-firstline            #666666
+define color-firstletter          #c00000
+
+define font-style-base          font-size: 10pt; font-family: "Arial" sans-serif
+define font-style-name          font-size: 18pt; font-weight: bold
+define font-style-navbar        font-size: 10pt
+define font-style-navbar-link   font-weight: bold
+define font-style-content       /* font: same as base */
+define font-style-h1            font-size: 200%; margin: 0; width: auto
+define font-style-h2            font-size: 150%; margin: 1em 0 0 0
+define font-style-h3            font-size: 125%
+define font-style-h4            font-style: italic; font-size: 120%
+define font-style-h5            font-size: 120%; font-style: italic; text-align: center
+define font-style-h6            font-size: .3em
+
+<!--
+ol, ul, li  {margin: 0; padding: 0;}
+
+body { /* top right bottom left */  /* top left-right bottom */  /* top-bottom left-right*/
+     margin: 0;
+     padding: 0;
+     background-color: color-background;
+     color: color-body-text;
+     font-size: 100%;
+     font-family: Arial, Helvetica, sans-serif; }
+
+#homepage {
+     background-color: color-background; } 
+
+#contentdiv {
+     line-height: 1.2;
+     display: block;
+     background-color: inherit;
+     font-size: .9em;
+     width: auto;
+     margin: 2%;
+     border: none;
+     padding: 10px; }
+
+#contentdiv p.initial:first-line {
+     font-variant: small-caps;
+     font-weight: bold;
+     color: color-firstline;
+     font-size: 1.1em; }
+
+#contentdiv p.initial:first-letter {
+     font-size: 250%;
+     color: color-firstletter;
+     float: left; }
+
+#logodiv, #navdiv, #footdiv {
+     margin: 0;
+     padding: 0;
+     border-color: color-header-background;
+     border-style: solid;
+     border-top-width: 0.5em;
+     border-left-width: 1em;
+     border-bottom-width: 0.5em;
+     border-right-width: 1em;
+     background-color: color-header-background; }
+     
+#logo {
+     margin: 0;
+     padding: 0;
+     vertical-align: top;
+     float: left;
+     width: 100px; }
+
+#logoname a {
+     margin: 0;
+     padding: 0;
+     padding: .1em .5em;
+     color: color-header-headline;
+     text-decoration: none;
+     vertical-align: top;
+     font-size: 2em;
+     font-weight: bold;
+     background-color: inherit;
+     float: left; }
+
+#logodiv {
+     margin: 0;
+     padding: 0;
+     width: 100%;
+     background-color: color-header-background;
+     color: color-header-headline;
+     float: left;
+     clear: both; }
+
+#logodiv .logo {
+     border: none;
+     vertical-align: baseline;
+     float: left;
+     margin: 0 1em 0 0; }
+     
+#logodiv .explan {
+     position: absolute; 
+     top: 0; right: 0; width: 4cm; }
+
+body#homepage li#home a, body#credentialspage li#credentials a, body#facilitiespage li#facilites a, body#procedurespage li#procedures a, body#insurancepage li#insurance a, body#locationpage li#location a, body#policiespage li#policies a, body#contactpage li#contact a, body#faqpage li#faq a, body#indexpage li#index a, body#sitemappage li#sitemap a {
+     background: inherit;
+     color: color-navbar-current;
+     border-bottom: .3em double color-navbar-curr-underbar; }
+
+h1 { /* Page Heading */
+     font-style-h1;
+     color: color-h1; }
+
+h2 { /* Second (first real) Heading */
+     font-style-h2; 
+     color: color-h2; }
+
+h3 { /* ThirdHeading */
+     font-style-h3;
+     color: color-h3; }
+
+h4 { /* Tag Line */
+     font-style-h4;
+     color: color-h4; }
+
+h5 { /* Running Slogan */
+     font-style-h5;
+     color: color-h5; }
+
+h6 { /* Copyright */
+     font-style-h6;
+     color: color-h6; }
+     
+#nav {
+     clear: both; }
+
+/* navbar (and footer) stuff follows: */     
+#navbar, #footer {
+     margin: 0;
+     padding: 0;
+     width: auto;
+     height: 2em;
+     background-color: color-header-background;
+     font-weight: bold;
+     clear: both; }
+
+#navbar .vbar, #footer .vbar {
+     color: color-navbar-divider;
+     font-size: 1.4em;
+     font-weight: normal; }
+
+#navbar ul, #footer ul {
+     font-size: 100%;
+     margin: 0;
+     padding: 0;
+     list-style-type: none;
+     text-align: left; }
+
+/* popups for navbar (and footbar): */     
+#navbar a span, #footer a span {
+     display: none; }
+
+#navbar a:hover span, #footer a:hover span {
+     display: block;
+     text-align: left;
+     overflow: visible;
+     position: absolute;
+     top: 1.5em;
+     left: 50%;
+     color: color-navbar-popup;
+     padding: 0.5%;
+     width: 20em;
+     height: auto; }
+
+#navbar ul li, #footer ul li {
+     display: inline; }
+
+#navbar ul.leftlist, #footer ul.leftlist {
+     float: left; }
+
+#navbar ul.rightlist, #footer ul.rightlist {
+     float: right;
+     font-size: 85%; }
+
+#navbar ul li a, #footer ul li a {
+     text-decoration: none;
+     padding: .1em .3em;
+     color: red;
+     background-color: #c00000; }
+
+#navbar ul li a:link, #navbar ul li a:visited, #footer ul li a:link, #footer ul li a:visited {
+     color: #ffff00;
+     background-color: #c00000;
+     text-decoration: none; }
+
+#navbar ul li a:visited, #footer ul li a:visited {
+     color: color-navlink-visited; }
+
+#navbar ul li a:hover, #footer ul li a:hover {
+     color: color-navbar-hover;
+     background-color: color-navlink-hover-bg; }
+-->
+  
+  <!--[if gte IE 5]>
+    <style>#navbar a  {position: relative; height: 1em; zoom: 100%;}</style>
+  <![endif]-->

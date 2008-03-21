@@ -1,0 +1,842 @@
+From rhk1@columbia.edu Mon Apr 28 09:32:04 2003
+Received: from romaine.cc.columbia.edu (romaine.cc.columbia.edu [128.59.59.210])
+	by letters.cs.ucsb.edu (8.11.6+Sun/8.11.6) with ESMTP id h3S43uC12891
+	for <sgk@cs.ucsb.edu>; Sun, 27 Apr 2003 21:03:56 -0700 (PDT)
+Received: from columbia.edu (dialup-ccts5-35.cc.columbia.edu [128.59.42.44])
+	(user=rhk1 mech=PLAIN bits=0)
+	by romaine.cc.columbia.edu (8.12.8p1/8.12.8) with ESMTP id h3S43Hsa016805
+	(version=TLSv1/SSLv3 cipher=RC4-MD5 bits=128 verify=NOT)
+	for <sgk@cs.ucsb.edu>; Mon, 28 Apr 2003 00:03:25 -0400 (EDT)
+Message-ID: <3EACA805.4483A6D6@columbia.edu>
+Date: Mon, 28 Apr 2003 00:03:17 -0400
+From: Richard Karpinski <rhk1@columbia.edu>
+X-Mailer: Mozilla 4.77 [en]C-CCK-MCD {AcIS}  (Windows NT 5.0; U)
+X-Accept-Language: en
+MIME-Version: 1.0
+To: Stefan Karpinski <sgk@cs.ucsb.edu>
+Subject: Installment for website
+References: <55F6D73C-6DE9-11D7-AE0F-000A9575CBAA@cs.ucsb.edu>
+Content-Type: multipart/mixed;
+ boundary="------------C7DEC55ADC2A3CD744C243CB"
+X-Scanned-By: MIMEDefang 2.32 (www . roaringpenguin . com / mimedefang)
+Content-Length: 44580
+Status:   
+
+This is a multi-part message in MIME format.
+--------------C7DEC55ADC2A3CD744C243CB
+Content-Type: text/plain; charset=us-ascii
+Content-Transfer-Encoding: 7bit
+
+Dear Stefan:
+
+Hope you had a good music time on Sunday.
+
+Enclosed are two files:
+
+  sitemap.html, and ahh.html
+
+
+The site map is a first pass at a site map and a site structure: not at
+all cut in stone.
+
+ahh is a file that contains the content for much of the AHH web site,
+which will be put up at www.axillaryhyperhidrosis.com
+
+It needs to be broken up into smaller chunks, each of which will be one
+of the top-level pages; I'm not sure which way would make the most sense
+to do this, but you may well have some clear ideas upon reading it. I'm
+eager to hear your suggestions in that regard.
+
+The reference for my book chapter (also one of the top line navigation
+items) is
+
+http://www.emedicine.com/plastic/topic530.htm
+
+
+The AHH site then needs pictures, somehow; FAQ; and Related Links
+
+While you are working on this, I will continue with FAQ, and bits and
+pieces of the Karpinskimd site.
+
+Thanks,
+--OD
+--------------C7DEC55ADC2A3CD744C243CB
+Content-Type: text/html; charset=us-ascii;
+ name="SiteMap.html"
+Content-Transfer-Encoding: 7bit
+Content-Disposition: inline;
+ filename="SiteMap.html"
+
+<!DOCTYPE HTML PUBLIC "-//W3C//DTD HTML 3.2//EN">
+<HTML>
+<HEAD>
+	<META HTTP-EQUIV="CONTENT-TYPE" CONTENT="text/html; charset=windows-1252">
+	<TITLE></TITLE>
+	<META NAME="GENERATOR" CONTENT="OpenOffice.org 1.0.2  (Win32)">
+	<META NAME="CREATED" CONTENT="20030326;13470900">
+	<META NAME="CHANGED" CONTENT="20030327;6585619">
+	<STYLE>
+	<!--
+		@page { size: 8.5in 11in; margin-left: 1.25in; margin-right: 1.25in; margin-top: 1in; margin-bottom: 1in }
+		P { margin-bottom: 0.08in }
+	-->
+	</STYLE>
+</HEAD>
+<BODY LANG="en-US">
+<P STYLE="margin-bottom: 0in">KarpinskiMD Home Page</P>
+<P STYLE="margin-left: 0.5in; margin-bottom: 0in">Credentials</P>
+<P STYLE="margin-left: 1in; margin-bottom: 0in">Biography</P>
+<P STYLE="margin-left: 1in; margin-bottom: 0in">Credentials</P>
+<P STYLE="margin-left: 1.5in; margin-bottom: 0in">Harvard Medical
+School</P>
+<P STYLE="margin-left: 1.5in; margin-bottom: 0in">Board Certified in
+PlasticSurgery</P>
+<P STYLE="margin-left: 1.5in; margin-bottom: 0in">Board Certified in
+General Surgery</P>
+<P STYLE="margin-left: 1.5in; margin-bottom: 0in">Fellow of American
+College of Surgeons</P>
+<P STYLE="margin-left: 1.5in; margin-bottom: 0in">Affiliated with St.
+Luke's/Roosevelt Hospital</P>
+<P STYLE="margin-left: 1.5in; margin-bottom: 0in">Faculty Appointment
+at Columbia University (P&amp;S)</P>
+<P STYLE="margin-left: 1in; margin-bottom: 0in">Curriculum Vitae</P>
+<P STYLE="margin-left: 0.5in; margin-bottom: 0in">Facilities and
+Staff</P>
+<P STYLE="margin-left: 1in; margin-bottom: 0in">Description of Office</P>
+<P STYLE="margin-left: 1in; margin-bottom: 0in">Operating Facility</P>
+<P STYLE="margin-left: 1in; margin-bottom: 0in">Staff</P>
+<P STYLE="margin-left: 0.5in; margin-bottom: 0in">Procedures</P>
+<P STYLE="margin-left: 1in; margin-bottom: 0in">Face:</P>
+<P STYLE="margin-left: 1.5in; margin-bottom: 0in">Facelift
+(Rhytidectomy)*</P>
+<P STYLE="margin-left: 1.5in; margin-bottom: 0in">Necklift</P>
+<P STYLE="margin-left: 1.5in; margin-bottom: 0in">Brow lift*</P>
+<P STYLE="margin-left: 1.5in; margin-bottom: 0in">Eyelid surgery
+(Blepharoplasty)*</P>
+<P STYLE="margin-left: 1.5in; margin-bottom: 0in">Chin
+enlargement/reshaping</P>
+<P STYLE="margin-left: 1.5in; margin-bottom: 0in">Jaw/cheek
+contouring*</P>
+<P STYLE="margin-left: 1.5in; margin-bottom: 0in">Collagen
+injections*</P>
+<P STYLE="margin-left: 1.5in; margin-bottom: 0in">BoTox injections</P>
+<P STYLE="margin-left: 1.5in; margin-bottom: 0in">Fat injection to
+soften creases or plump lips*</P>
+<P STYLE="margin-left: 1.5in; margin-bottom: 0in">Correction of
+prominent ears (Otoplasty)*</P>
+<P STYLE="margin-left: 1in; margin-bottom: 0in">Nose:</P>
+<P STYLE="margin-left: 1.5in; margin-bottom: 0in">Rhinoplasty*</P>
+<P STYLE="margin-left: 1.5in; margin-bottom: 0in">Repair of broken or
+crooked nose</P>
+<P STYLE="margin-left: 1.5in; margin-bottom: 0in">Improvement of
+nasal breathing (deviated septum, turbinates, etc.)</P>
+<P STYLE="margin-left: 1in; margin-bottom: 0in">Body Shaping:</P>
+<P STYLE="margin-left: 1.5in; margin-bottom: 0in">Abdominoplasty
+(tummy tuck)*</P>
+<P STYLE="margin-left: 1.5in; margin-bottom: 0in">Thigh lift</P>
+<P STYLE="margin-left: 1.5in; margin-bottom: 0in">Buttock lift</P>
+<P STYLE="margin-left: 1in; margin-bottom: 0in">Breast:</P>
+<P STYLE="margin-left: 1.5in; margin-bottom: 0in">Augmentation
+(enlargement)*</P>
+<P STYLE="margin-left: 1.5in; margin-bottom: 0in">Mastopexy (lift)*</P>
+<P STYLE="margin-left: 1.5in; margin-bottom: 0in">Reduction</P>
+<P STYLE="margin-left: 1.5in; margin-bottom: 0in">Reconstruction
+after mastectomy*</P>
+<P STYLE="margin-left: 1in; margin-bottom: 0in">Liposuction:</P>
+<P STYLE="margin-left: 1.5in; margin-bottom: 0in">thighs (saddle
+bags)*</P>
+<P STYLE="margin-left: 1.5in; margin-bottom: 0in">abdomen (pot
+belly)*</P>
+<P STYLE="margin-left: 1.5in; margin-bottom: 0in">flanks (love
+handles)*</P>
+<P STYLE="margin-left: 1.5in; margin-bottom: 0in">knees</P>
+<P STYLE="margin-left: 1.5in; margin-bottom: 0in">fat necks</P>
+<P STYLE="margin-left: 1in; margin-bottom: 0in">Other:</P>
+<P STYLE="margin-left: 1.5in; margin-bottom: 0in">mole and skin
+cancer removal</P>
+<P STYLE="margin-left: 1.5in; margin-bottom: 0in">scar revision</P>
+<P STYLE="margin-left: 1.5in; margin-bottom: 0in">removal of underarm
+sweat glands (Skoog procedure)</P>
+<P STYLE="margin-left: 0.5in; margin-bottom: 0in">Insurances</P>
+<P STYLE="margin-left: 1in; margin-bottom: 0in">Insurances we do
+participate with:</P>
+<P STYLE="margin-left: 1.5in; margin-bottom: 0in">1199</P>
+<P STYLE="margin-left: 1.5in; margin-bottom: 0in">Blue Cross/Blue
+Shield</P>
+<P STYLE="margin-left: 1.5in; margin-bottom: 0in">Empire Blue Choice</P>
+<P STYLE="margin-left: 1.5in; margin-bottom: 0in">Empire Health Net</P>
+<P STYLE="margin-left: 1.5in; margin-bottom: 0in">GHI</P>
+<P STYLE="margin-left: 1.5in; margin-bottom: 0in">Horizon Healthcare
+(BC/BS of NJ), some plans</P>
+<P STYLE="margin-left: 1.5in; margin-bottom: 0in">MagnaCare</P>
+<P STYLE="margin-left: 1.5in; margin-bottom: 0in">Medicare</P>
+<P STYLE="margin-left: 1.5in; margin-bottom: 0in">Mulit-Plan</P>
+<P STYLE="margin-left: 1.5in; margin-bottom: 0in">Oxford</P>
+<P STYLE="margin-left: 1.5in; margin-bottom: 0in">PHCS</P>
+<P STYLE="margin-left: 1in; margin-bottom: 0in">Insurances we don't
+participate in, but can negotiate with:</P>
+<P STYLE="margin-left: 1.5in; margin-bottom: 0in">Atlantis</P>
+<P STYLE="margin-left: 1.5in; margin-bottom: 0in">Aetna/USHealthCare</P>
+<P STYLE="margin-left: 1.5in; margin-bottom: 0in">Anthem</P>
+<P STYLE="margin-left: 1.5in; margin-bottom: 0in">Health First</P>
+<P STYLE="margin-left: 1.5in; margin-bottom: 0in">First Health</P>
+<P STYLE="margin-left: 1.5in; margin-bottom: 0in">MetraHealth</P>
+<P STYLE="margin-left: 1.5in; margin-bottom: 0in">PruCare</P>
+<P STYLE="margin-left: 1.5in; margin-bottom: 0in">Prudential</P>
+<P STYLE="margin-left: 1.5in; margin-bottom: 0in">PHS</P>
+<P STYLE="margin-left: 1.5in; margin-bottom: 0in">Guardian</P>
+<P STYLE="margin-left: 1.5in; margin-bottom: 0in">ChubbHealth</P>
+<P STYLE="margin-left: 1.5in; margin-bottom: 0in">Cigna</P>
+<P STYLE="margin-left: 1.5in; margin-bottom: 0in">Met Empire Plan</P>
+<P STYLE="margin-left: 1.5in; margin-bottom: 0in">United Health Care</P>
+<P STYLE="margin-left: 1.5in; margin-bottom: 0in">Metropolitan</P>
+<P STYLE="margin-left: 1.5in; margin-bottom: 0in">PruCare</P>
+<P STYLE="margin-left: 1.5in; margin-bottom: 0in">Prudential</P>
+<P STYLE="margin-left: 1.5in; margin-bottom: 0in">Travellers</P>
+<P STYLE="margin-left: 1in; margin-bottom: 0in">Insurances we don't
+accept:</P>
+<P STYLE="margin-left: 1.5in; margin-bottom: 0in">Medicaid</P>
+<P STYLE="margin-left: 1.5in; margin-bottom: 0in">New York No-Fault
+Injuries</P>
+<P STYLE="margin-left: 1.5in; margin-bottom: 0in">Workers
+Compensation Injuries</P>
+<P STYLE="margin-left: 1.5in; margin-bottom: 0in">HIP</P>
+<P STYLE="margin-left: 1.5in; margin-bottom: 0in">CenterCare</P>
+<P STYLE="margin-left: 0.5in; margin-bottom: 0in">Location</P>
+<P STYLE="margin-left: 1in; margin-bottom: 0in">Location Description
+and Map</P>
+<P STYLE="margin-left: 1in; margin-bottom: 0in">Directions by Subway</P>
+<P STYLE="margin-left: 1in; margin-bottom: 0in">Directions by Bus</P>
+<P STYLE="margin-left: 1in; margin-bottom: 0in">Directions by Car</P>
+<P STYLE="margin-left: 0.5in; margin-bottom: 0in">Contact Us</P>
+<P STYLE="margin-left: 1in; margin-bottom: 0in">Surface Mail</P>
+<P STYLE="margin-left: 1in; margin-bottom: 0in">Telephone</P>
+<P STYLE="margin-left: 1in; margin-bottom: 0in">Facsimile</P>
+<P STYLE="margin-left: 1in; margin-bottom: 0in">e-Mail</P>
+<P STYLE="margin-left: 0.5in; margin-bottom: 0in">FAQ</P>
+<P STYLE="margin-left: 0.5in; margin-bottom: 0in">Site Map (this
+document)</P>
+<P STYLE="margin-left: 0.5in; margin-bottom: 0in">Index</P>
+<P STYLE="margin-bottom: 0in"><BR>
+</P>
+<P STYLE="margin-bottom: 0in">Axillary Hyperhidrosis Homepage</P>
+<P STYLE="margin-left: 0.5in; margin-bottom: 0in">What is AH?</P>
+<P STYLE="margin-left: 0.5in; margin-bottom: 0in">Treatment
+approaches</P>
+<P STYLE="margin-left: 1in; margin-bottom: 0in">Medical approaches</P>
+<P STYLE="margin-left: 1in; margin-bottom: 0in">Surgical approaches</P>
+<P STYLE="margin-left: 1in; margin-bottom: 0in">	ETS</P>
+<P STYLE="margin-left: 1in; margin-bottom: 0in">	Skoog Procedure</P>
+<P STYLE="margin-left: 0.5in; margin-bottom: 0in">Selected Related
+Sites</P>
+<P STYLE="margin-left: 0.5in; margin-bottom: 0in">FAQ</P>
+<P STYLE="margin-left: 0.5in; margin-bottom: 0in">SiteMap (this
+document)</P>
+<P STYLE="margin-left: 0.5in; margin-bottom: 0in">Index</P>
+</BODY>
+</HTML>
+--------------C7DEC55ADC2A3CD744C243CB
+Content-Type: text/html; charset=us-ascii;
+ name="ahh.html"
+Content-Transfer-Encoding: 7bit
+Content-Disposition: inline;
+ filename="ahh.html"
+
+<!DOCTYPE HTML PUBLIC "-//W3C//DTD HTML 4.0 Transitional//EN">
+<HTML>
+<HEAD>
+	<META HTTP-EQUIV="CONTENT-TYPE" CONTENT="text/html; charset=windows-1252">
+	<TITLE></TITLE>
+	<META NAME="GENERATOR" CONTENT="OpenOffice.org 1.1Beta  (Win32)">
+	<META NAME="CREATED" CONTENT="20030426;8024115">
+	<META NAME="CHANGED" CONTENT="20030427;23294303">
+</HEAD>
+<BODY LANG="en-US" DIR="LTR">
+<H1>What is Axillary Hyperhidrosis?</H1>
+<P>Axillary Hyperhidrosis is inappropriately voluminous sweating from
+the underarms.</P>
+<P><DFN>Primary hyperhidrosis</DFN> is excessive uncontrollable
+sweating without any discernible cause. It most commonly involves the
+underarms (axillae), palms, and soles but may also involve the face
+and groin.</P>
+<P><DFN>Secondary hyperhidrosis</DFN> may be caused by endocrine
+disorders (eg, thyroid overactivity), hormone-secreting tumors (eg,
+pheochromocytoma), sympathetic nervous system disorders, or primary
+neurologic or psychiatric disorders.</P>
+<P><DFN>Patients</DFN> with axillary hyperhidrosis usually complain
+of constant or frequent sweating, with <DFN>streams of wetness</DFN>
+running down their sides. This problem wets and ruins clothing and
+produces social embarrassment or functional problems from skin
+maceration. Severely affected patients also may have resulting
+bacterial infections. Unlike functional sweating--which may be
+triggered by exercise, exertion, or high temperature--hyperhidrosis
+may require no trigger at all, or may be stimulated by emotional
+situations and/or anxiety. Most patients with axillary hyperhidrosis
+have tried multiple antiperspirants and various medications and often
+have devised coping methods dealing with clothing strategies. Many
+have consulted various physicians--often to no avail.</P>
+<P>Some patients may have unilateral axillary hyperhidrosis or a more
+severe problem on one side than the other. Many patients with
+axillary hyperhidrosis also are afflicted with palmar, facial, or
+plantar hyperhidrosis to some degree.</P>
+<P>The problem usually begins with puberty but also may start in mid
+childhood, especially in Asian populations.</P>
+<H2>Diagnosis</H2>
+<P>The diagnosis of axillary hyperhidrosis is made from patient
+history and from visible signs of excessive sweating. No formal
+staging or severity scale exists, but the terms mild, moderate, and
+severe are used in some clinical descriptions.</P>
+<H2>Prognosis</H2>
+<P>Although untreated hyperhidrosis may become gradually less severe
+with age, it tends to remain a permanently annoying or disabling
+condition.</P>
+<H2>Testing</H2>
+<H3>Blood and Urine</H3>
+<P>Laboratory blood and urine tests may play a vital role in
+excluding <U>secondary</U> hyperhidrosis from causes such as
+hyperthyroidism, pheochromocytoma, carcinoid or other malignancy,
+tuberculosis, or adrenal pathology, especially in patients with
+asymmetric, late, or atypical onset of symptoms. 
+</P>
+<H3>Sweat Tests</H3>
+<P>Heckmann et al<!--insert reference--> have described a gravimetric
+method for quantitating sweat production, in which filter paper is
+weighed dry on a high-precision laboratory scale, then placed in
+contact with a hyperhidrotic area of patient skin for 60 seconds,
+then weighed again. They found the rate of sweat production in
+hyperhidrotic areas to be near 200 mg/min.</P>
+<P>Minor's iodine starch test has been used for many years to map the
+areas of axillary hypersecretion.</P>
+<UL>
+	<LI><P>The axilla is dried thoroughly, painted with an iodine
+	tincture, then air-dried and dusted with cornstarch or potato flour.
+	As the patient begins to sweat, moistened starch combines with the
+	iodine to produce a vivid blue color. The hyperhidrotic areas then
+	can be mapped and outlined with an indelible felt-tip marker. (See
+	figures)</P>
+</UL>
+<UL>
+	<LI><P>A variant version of this test uses ninhydrin solution
+	sprayed on an air-dried axilla, relying on color reaction with
+	proteinaceous sweat to produce a visible pattern.</P>
+</UL>
+<P>In practice, gravimetric measurement of sweat production is seldom
+used. Iodine mapping is also of limited usefulness as a prelude to
+surgery, since the hyperhidrotic area usually corresponds quite
+closely to the hair-bearing area of the axilla; however, mapping may
+be extremely helpful in pinpointing an area of recurrence (or failed
+gland resection) in patients who require reoperation.</P>
+<P>Skin temperature and electrical conductivity may be used during
+ETS surgery to gauge sympathectomy effect, but they are rarely needed
+prior to surgery.</P>
+<H2>What it is not</H2>
+<P>Several other axillary conditions may be confused with
+hyperhidrosis:</P>
+<UL>
+	<LI><P><B>Axillary bromidrosis</B> is chronic offensive axillary
+	odor; it may be related to apocrine secretions and to chronic
+	bacterial colonization, and antibiotic treatment may be suppressive
+	or curative.</P>
+	<LI><P><B>Axillary lymphadenitis</B> is inflammation and enlargement
+	of underarm lymph nodes.</P>
+	<LI><P><B>Axillary hidradenitis</B> is chronic recurring <U>infection</U>
+	of the underarm sweat glands, with production of repeated boils and
+	sinuses. Once established, the condition may be suppressed, but not
+	cured, by antibiotics. Excision of the involved skin and glands is
+	the only cure; such resections are generally quite disfiguring. The
+	exact cause is unknown, but a hormonal influence appears to be
+	involved.</P>
+	<LI><P><B>Axillary breast</B> is the presence in the underarm of
+	subcutaneous breast tissue, with or without a nipple.</P>
+</UL>
+<H2>Frequency</H2>
+<P>The incidence of hyperhidrosis is uncertain, but Adar's study of a
+young Israeli population reported a prevalence of 0.6-1% for palmar
+hyperhidrosis; familial involvement was reported in 25% of patients.
+The incidence of axillary hyperhidrosis is believed to be similar.</P>
+<H2>Cause</H2>
+<P>The etiology of axillary hyperhidrosis is unknown, but is related
+to increased cholinergic sympathetic stimulation of the sweat glands
+in the axilla. Although the glands invariably become remarkably
+hypertrophied in this condition, the dramatic glandular growth and
+oversecretion is believed to be secondary rather than primary; a
+parallel concept is oxyntic cell hypertrophy in peptic ulcer disease
+due to vagal hypertonicity.</P>
+<P>The observed atrophy of sweat glands in grafted (and therefore
+denervated) skin, with reappearance of sweating with reinnervation,
+led to the conceptual link between sympathetic tone and acinar
+hypersecretion. Further evidence of the neural control of sweat
+production comes from the observation that local anesthetic injection
+transiently stops hypersecretion of sweat, as does cholinergic
+blockade from local injection of botulinum toxin.</P>
+<P>While axillary hyperhidrosis almost always begins with puberty, no
+direct hormonal connection has been suggested.</P>
+<H2>Histology</H2>
+<P>Bisbal et al have determined that eccrine and apocrine sweat
+glands are mixed in the axilla, with the proportion of 1:1.</P>
+<P>In axillary hyperhidrosis, the sweat glands which are responsible
+for the problem are restricted to the specialized concentration of
+sweat glands of two types (eccrine and apocrine) and roughly
+corresponds to the hair-bearing area of the underarm.</P>
+<P>In patients with axillary hyperhidrosis, Morgan and Hughes
+demonstrated that the apocrine glands are significantly larger and
+more numerous than those in axillary hidradenitis and in healthy
+control subjects.</P>
+<P>Following a thorough resection of the subcutaneous axillary sweat
+glands (Skoog procedure), a few eccrine glands remain, and
+practically no apocrine glands can be found.</P>
+<P>Thus it seems that a Skoog adenectomy is in reality essentially an
+apocrinectomy. This is at odds with the observation that the profuse
+sweat produced in axillary hyperhidrosis (and stopped by Skoog
+resection) is clear and odorless; classically, apocrine sweat is
+described as cloudy and odoriferous, while eccrine sweat is labeled
+clear and without odor. No one has reconciled these seeming
+inconsistencies, but the inference is that the clear odorless profuse
+sweating observed in axillary hyperhidrosis comes from the
+hypertrophied and overactive apocrine glands.</P>
+<H2>The Problem of Recognition</H2>
+<P>Axillary hyperhidrosis is a condition that is little recognized by
+patients and physicians outside Scandinavia and Great Britain.
+Patients who suffer from this condition are often misdiagnosed or
+dismissed as having psychosomatic complaints. Worse, various
+ineffective therapies are often recommended by &quot;experts.&quot;</P>
+<P>In Britain and Sweden, treatment of axillary hyperhidrosis is
+generally covered under the respective National Health Service. In
+the US, most insurers deny coverage because surgery is not considered
+&quot;medically necessary&quot; or because the insurer is either
+unaware of the procedures, or considers them &quot;experimental.&quot;
+A few insurers routinely confuse axillary hyperhidrosis surgery with
+surgery for hiradenitis suppuritiva of the axilla.</P>
+<H1>Treatment</H1>
+<H2>Medical Approaches</H2>
+<P>Medical treatments seek to decrease sympathetic nerve stimulation
+of the glands, to block sweat gland openings, or to produce nerve
+impluse blockade at the nerve/gland connection. 
+</P>
+<H3>Dietary restriction</H3>
+<P>Since hyperhidrosis of all kinds can be made worse by
+stimulant-containing foods, especially caffeine and theobromine,
+dietary restriction of coffee, tea, cola soft drinks, and chocolate
+may improve mild cases of hyperhidrosis.</P>
+<H3>Topical antiperspirants</H3>
+<P>Most patients with the clinical syndrome try a variety of topical
+antiperspirants and deodorants, but find no relief until they use 10%
+or 20% aluminum chloride (Drysol) applied daily. These treatments may
+be quite effective for mild-to-moderate cases of hyperhidrosis.</P>
+<P>Shelley and Hurley suggest a more complicated regimen using
+aluminum chloride hexahydrate or zirconyl chloride in absolute
+alcohol applied at bedtime, with a plastic dressing applied until
+morning. They hypothesize that the metallic antiperspirants enter the
+sweat gland duct and form a plug that blocks the gland's outlet by
+combining with keratin in the duct lining cells; this treatment may
+be effective for a week at a time.</P>
+<P>Unfortunately, skin irritation is very common with these
+antiperspirants, and often forces discontinuance of the treatment.</P>
+<H3>Iontophoresis</H3>
+<P>Tap water iontophoresis is a fairly effective therapy in palm and
+sole hyperhidrosis, but is more cumbersome and less effective in
+axillary hyperhidrosis. In this procedure, moistened sponges wrapped
+around metal electrodes are inserted into each underarm for 20
+minutes, and a low-voltage current is applied to the skin several
+times a week; it produces a stinging sensation. Adverse effects of
+this method are discomfort with burning, tingling, and skin
+irritation, including redness and blister formation. Incorrect use
+may cause burns at sites of minor skin injury. A commonly-marketed
+brand name is the Drionics device. The mechanism by which
+iontophoresis produces its sweat-decreasing effect is unknown.</P>
+<H3>Sympatholytics, anxiolytics, and sedatives</H3>
+<P>Administration of anticholinergic agents and beta-blockers can be
+quite helpful in mild cases of hyperhidrosis. Glycopyrronium bromide
+(Robinul), atropine, propranolol, and a host of anxiolytic (eg,
+Klonopin) and psychotherapeutic (eg, Prozac) medications have been
+used in the treatment of this disorder, with varying degrees of
+success. Unfortunately, in all but the mildest cases of
+hyperhidrosis, the doses of medications required to truly control
+abnormal sweating often cause significant side effects, including
+drowsiness, dry mouth, dilated pupils, photophobia, blurred vision,
+acute glaucoma, impaired urination, reduced bronchial secretions,
+constipation, confusion, nausea, vomiting, giddiness, tachycardia,
+palpitations, and arrhythmias. Thus, many patients are forced to
+discontinue this avenue of treatment.</P>
+<H3>Radiation</H3>
+<P>Low-dose topical radiation produces at least transient decrease in
+local sweat production and has been suggested as a treatment for
+hyperhidrosis. Postradiation atrophy of the axillary sweat gland
+layer can be demonstrated. However, potential serious late adverse
+effects of radiotherapy make this a modality that cannot be
+recommended as a realistic solution for hyperhidrosis.</P>
+<H3>Botox injections</H3>
+<P>Botulinum toxin A (Botox) blocks acetylcholine release at the
+neuromuscular junction and in cholinergic autonomic neurons; it thus
+disconnects axillary sweat glands from their nerve supply. In a
+recent elegant study, Heckmann et al demonstrated quantitatively the
+effective safe treatment of axillary hyperhidrosis by intradermal
+injection of Botox. They also demonstrated the longevity of the
+relief produced: 24 weeks after the injection of 100 U, the rates of
+sweat production (in the 136 patients in whom the rates were measured
+at that time) were still lower than baseline values.</P>
+<H2>Surgical Approaches</H2>
+<P>Surgical treatment of axillary hyperhidrosis involves resection of
+the end organ (adenectomy=gland removal) or interruption of
+sympathetic innervation to autonomically innervated structures,
+including sweat glands.</P>
+<H3>Sympathectomy</H3>
+<P>Sympathectomy interrupts the sympathetic nerves which stimulate
+sweat glands and other structures. The sypathetic nerves can be
+isolated and interrupted inside the chest cavity where the
+sympathetic chain is identifiable as a visible anatomic structure
+near the connection of the second rib with the vertebral column.</P>
+<H4>Open sympathectomy</H4>
+<P>Open sympathectomy (through an open-chest operation), though still
+practiced, is rapidly losing ground to its endoscopic counterpart,
+which theoretically achieves the same therapeutic goal with much less
+patient morbidity.</P>
+<H4>Endoscopic sympathectomy (ETS)</H4>
+<P>ETS interrupts or destroys the high thoracic sympathetic chain to
+decrease sympathetic tone to the upper extremity and/or face. It is
+useful for causalgia, unreconstructable vascular disease, and
+treatment of severe frostbite, Raynaud syndrome, and acrocyanosis, in
+addition to its usefulness in hyperhidrosis. ETS is carried out under
+general anesthesia through one or more small insertion incisions.
+Among other things, sympathectomy results in a relaxation of
+peripheral arteriovenous connections; this results in vasodilatation
+of the skin with increased warmth. It also produces a cessation of
+sweating. Beneficial effects reportedly last as long as 5-10 years.</P>
+<P>ETS can now often be accomplished on an outpatient basis.</P>
+<H4>ETS Contraindications:</H4>
+<P>As with any invasive treatment of a non-life-threatening
+condition, the risks of hyperhidrosis surgery need to be low. Any
+health condition that substantially increases the surgical risk may
+make a recommendation for such surgery inappropriate. Specifically,
+pulmonary or cardiac pathology may make thoracic surgery, even
+endoscopic thoracic surgery, too dangerous for the nature of the
+problem.</P>
+<P>Patients with only (or predominantly) axillary hyperhidrosis
+probably should not be steered toward endoscopic transthoracic
+sympathectomy (ETS). Patients with multiple hyperhidrotic sites
+should strongly consider ETS before Skoog adenectomy.</P>
+<H4>ETS Procedure Details</H4>
+<P>Under general anesthsia with a double-lumen endotracheal tube,
+with the patient lying supine, on each side two small incisions are
+mad between the ribs: one for the endoscopica camera, and the other
+to admit endoscopic surgical instruments. One side at a time, the
+lung is deflated by the anesthesiologist and the telescope and
+instruments introduced. The second rib is identified within the chest
+cavity and the sympathetic chain visualized. The pleura is opened
+over the symptathetic chain and several sympathetic ganglia
+identified (usually T2, T3, and T4). The amount and level of
+resection or ablation are individualized somewhat: since innervation
+of the head and neck is from T1 to T5, while that of the upper
+extremities is from T2 through T9, treatment for facial hyperhidrosis
+probably should include the T1 and T2 ganglia, while ablation of T5
+probably is required to treat axillary hyperhidrosis. Extensive
+proximal dissection of the sympathetic chain (above the T1 ganglia)
+may lead to injury of the stellate ganglion, and injury to the
+cervical C7 component of this ganglion may result in permanent
+postoperative Horner syndrome. The instruments are removed, the lung
+reinflated and the incisions closed. A chest tube is not necessary
+unless a parenchymal air leak is noted.</P>
+<H4>ETS Complications</H4>
+<P>In addition to the problems which can be seen after any chest
+procedures such as bleeding, infection, incisional problems, and
+pneumothorax, patients who have undergone ETS can also experience
+compensatory sweating, gustatory sweating, Horner syndrome, eyelid
+ptosis, and cardiac effects similar to beta-adrenergic blockade.</P>
+<P>In compensatory sweating, patients note increased perspiration
+over the trunk and upper thighs, especially in hot weather.
+Compensatory sweating may decrease with time, and most patients find
+it less objectionable than the hyperhidrosis for which they sought
+treatment. If patients are questioned carefully, compensatory
+sweating can be noted in as many as 75% of patients undergoing
+sympathectomy.</P>
+<P>Gustatory sweating is a rare sequela of ETS. These patients
+experience the sensation of sweating when they eat, although no
+excessive sweat is actually produced.</P>
+<P>Postoperative Horner syndrome may occur if portions of the
+stellate ganglion are removed or coagulated. This is fairly uncommon
+after ETS since the stellate ganglion is well protected by the dome
+of the pleura. Eyelid ptosis also may occur following ETS.</P>
+<P>Following an extensive thoracic sympathectomy (especially one
+extending down to T5), cardiac effects may occur similar to those
+produced by beta-adrenergic blockade.</P>
+<P>An incomplete sympathectomy may fail to produce symptomatic
+relief. Failure to find nerves of Kuntz, if present, also may lead to
+a suboptimal result; these extraganglionic sympathetic pathways are
+present in at least 10% of patients and must be sought carefully
+during the resection procedure.</P>
+<H4>ETS Prognosis</H4>
+<P>Herbst et al studied 323 patients nearly 15 years after endoscopic
+thoracic sympathectomy and summarized their results as follows:</P>
+<P>There was no postoperative mortality and no major complications
+requiring surgical reintervention. A majority of the patients (98.1%)
+were relieved, and 95.5% were satisfied initially. Permanent side
+effects included compensatory sweating in 67.4%, gustatory sweating
+in 50.7% and Horner's triad in 2.5%. However, patient satisfaction
+declined over time, although only 1.5% recurred. This left only 66.7%
+satisfied, and 26.7% partially satisfied. Compensatory and gustatory
+sweating were the most frequently stated reasons for dissatisfaction.
+Individuals operated for axillary hyperhidrosis without palmar
+involvement were significantly less satisfied (33.3% and 46.2%,
+respectively).</P>
+<P>Sympathetic regeneration has been documented in animals and humans
+and may result in late recurrence of hyperhidrotic symptoms. In
+animals, sympathetic fibers have remarkable regenerative ability,
+with regrowth and reinnervation through muscle and scar over time.</P>
+<P>To achieve axillary anhidrosis, more extensive and/or more caudal
+resection of the sympathetic chain has been advocated, but this also
+seems to increase the chances of compensatory sweating and
+cardiovascular dysautonomia.</P>
+<H2>Axillary resection</H2>
+<H3>Skin resection (debulking of gland volume)</H3>
+<P>Some authors (Wu et al and others) advocate composite removal of
+skin and associated axillary glands to treat axillary hyperhidrosis,
+but such resection is likely either to leave behind significant
+functional gland tissue or to produce major scarring and limitation
+of range of motion. Such resections are more appropriately reserved
+for patients with hidradenitis.</P>
+<H3>Suction adenectomy</H3>
+<P>A liposuction technique has been used to attempt axillary
+adenectomy in hyperhidrosis and has been recommended recently by
+Lillis and Coleman and Shenaq et al. A small-bore liposuction cannula
+is used, with the suction opening turned toward the underside of the
+skin. As the cannula is raked across the underside of the skin
+bearing the hypertrophic sweat glands, the expectation is that a high
+proportion of the glands are either sliced off or disrupted. In the
+author's experience, a disappointingly high fraction of patients
+treated by this method experienced relapse of abnormal sweating. The
+early disappearance of excess sweating is conjectured to be the
+result of local denervation and gland disruption; however, as
+patients are observed over time, reinnervation and/or gland
+regeneration takes place (typically within the first 6 mo
+postoperatively), and the symptoms recur. The author has abandoned
+this method of treatment.</P>
+<P>A variant method of suction adenectomy using ultrasonic
+liposuction is thought to produce a better long-term result by
+producing more ablation than resection of gland tissue (although this
+method is believed to be operator-dependent).</P>
+<H3>Open adenectomy (Skoog Procedure)</H3>
+<P>The Skoog procedure is a well-tolerated, effective, and permanent
+treatment for axillary hyperhidrosis. It is only appropriate for
+patients with hyperhidrosis--solely or predominantly--of the axilla.
+ETS is the more appropriate choice for patients who also suffer from
+palmar or facial hyperhidrosis.</P>
+<P>The procedure is named for the late Professor Tord Skoog, of
+Uppsala Univerity, Sweden, who developed and popularized the removal
+of underarm sweat glands for axillary hyperhidrosis.</P>
+<H4>Skoog Contraindications:</H4>
+<P>Problems with skin circulation (eg, lupus) or situations known to
+degrade wound healing (eg, steroid treatment, previous radiation
+therapy, diabetes) may make the risk of surgery unacceptable.</P>
+<H4>Skoog Procedure Details</H4>
+<P>Axillary adenectomy can easily be done entirely under local
+anesthesia; though some patients prefer to be sedated during the
+operation (which ususally lasts about 1.5 hours for each side). The
+classic Skoog procedure, starts with a transverse incision across the
+axilla from front to back; staggered-cross incisions are added
+roughly perpendicular to the transverse limb and extending to the
+proximal and distal extremes of the hair-bearing area, so that the
+entire hair-bearing axilla is divided into 4 quadrants (see Image 1).</P>
+<P>In the author's variation of the Skoog procedure, only the single
+transverse incision is used. Although this makes the dissection
+substantially more difficult, it produces a less visible scar, a
+lower risk of flap necrosis, and an easier closure. Wang and others
+have recommended multiple parallel longitudinal incisions.</P>
+<P>The incisions are carried through the skin and the subcutaneous
+layer, which in these patients is formed almost entirely by tan-pink
+sweat glands . Usually a fascia layer is discernible covering the
+deep axilla; a cleavage plane just superficial to this facilitates
+dissection.; none of the dissection is deep to the fascia layer. The
+extent of dissection corresponds roughly to the hair-bearing axilla
+or to the mapped area if preoperative mapping is used. Reaching the
+limits of dissection farthest away from the skin incision becomes
+increasingly difficult and requires appropriate instruments and an
+experienced assistant.</P>
+<P>Gland resection is started most easily at the cut edge of the
+incision and proceeds toward the axillary periphery. With practice,
+removing essentially all of the gland tissue in a sheet without
+damaging the fine vessels revealed on the underside of the dermis by
+the resection is possible using magnifying loupes. The gland color
+and texture differentiate them from other structures in the operative
+field and are the most useful determinants of the adequacy of
+extirpation.</P>
+<P>The endpoint of gland resection is usually apparent when the
+carpet of tan gland tissue runs out. However, peripheral &quot;islands&quot;
+or &quot;peninsulas&quot; of glandular tissue covered by a thin layer
+of fat may fool the surgeon; missing these small collections of
+hypertrophic gland tissue is the probable cause of most sweating
+&quot;recurrences&quot; once the missed tissue becomes reinnervated.
+A check of the apparent end of hypertrophied gland mass against the
+axillary hair pattern or against an outline determined by
+preoperative mapping can prevent leaing hypertrophic glands behind.
+Dissecting approximately 1 cm beyond the apparent end of the
+glandular tissue carpet also may help prevent recurrence without
+unduly compromising flap circulation.</P>
+<P>The incisions are sutured in layers, and a drain is placed through
+a small separate incision at the most inferior extreme of dissection,
+since without this step a hematoma or seroma often accumulates.</P>
+<P>A padded compression dressing is placed over the entire dissected
+area, hinged at the depth of the axilla: this can be made with
+resilient padding, bent into a V. The arm side of the V is taped to
+the upper arm or held in place with an elastic bandage, while the
+chest side of the V is taped to the chest.</P>
+<P>The drain may be removed in 24-72 hours. Some kind of padded
+compression dressing should remain in place for a week. Skin sutures
+can be removed safely at approximately 1 week. Most patients resume
+normal arm activity (excluding overhead arm stretching) as soon as
+the dressings are removed; exercises that include overhead stretches
+can be resumed gradually starting 2 weeks after surgery.</P>
+<H4>Skoog ComplicationS</H4>
+<P>The most common complications of axillary sweat gland resection
+are related to vascularity of the flaps. Overly aggressive dissection
+damages the fine vessels that supply the dissected flaps; hematoma
+and infection also can act to compromise circulation.</P>
+<P>Any but the most minor length of necrosis along the suture line
+will lead to dehiscence with consequent discomfort, drainage, and
+eventual hypertrophic scar.</P>
+<P>Hematoma, seroma, and infection can occur and increase the risk of
+flap devascularization despite careful hemostasis, aseptic technique,
+preoperative preparation, drain placement, and compressive dressings.</P>
+<P>Incomplete excision of a portion of the hypertrophic gland mass
+leads to recurrent sweating once the acinar tissue becomes
+reinnervated, typically several months after surgery. This is the
+most common reason for reoperation.</P>
+<P>Although hypertrophic and keloid scars are uncommon in the axilla
+with primary healing, they CAN occur and may require triamcinolone
+injection, topical silicone gel sheeting, or even revision.</P>
+<P>Although compensatory sweating can occur with transthoracic
+sympathectomy, it is never observed in axillary adenectomy.</P>
+<H4>Skoog Prognosis</H4>
+<P>Every dissected (thus denervated) axilla is dry, even if no sweat
+glands are resected. Therefore, long-term outcome of sweat gland
+resection can only be judged after 6 months, when reinnervation
+should already have taken place. Most patients have a dry axilla for
+the few months following surgery, then develop some sweating, which
+the patients characterize as &quot;normal.&quot; With meticulous
+dissection, long-term relief of hyperhidrosis approaches 95%. In a
+study of use of a mechanical gland-shaving device, Park et al
+reported an overall satisfaction rate of 94.7% with a complication
+rate of 13.2%.</P>
+<H1>References:</H1>
+<UL>
+	<LI><P>Adar R: Surgical treatment of palmar hyperhidrosis before
+	thoracoscopy: experience with 475 patients. Eur J Surg Suppl 1994;
+	(572): 9-11<A HREF="http://www.ncbi.nlm.nih.gov/htbin-post/Entrez/query?db=m&amp;form=6&amp;Dopt=r&amp;uid=95036438"><FONT FACE="arial, helvetica">[Medline]</FONT></A>
+		</P>
+	<LI><P>Atkins JL, Butler PE: Treating hyperhidrosis. Excision of
+	axillary tissue may be more effective. BMJ 2000 Sep 16; 321(7262):
+	702; discussion 703<A HREF="http://www.ncbi.nlm.nih.gov/htbin-post/Entrez/query?db=m&amp;form=6&amp;Dopt=r&amp;uid=20524843">
+	[Medline]</A>. 
+	</P>
+	<LI><P>Bisbal J, del Cacho C, Casalots J: Surgical treatment of
+	axillary hyperhidrosis. Ann Plast Surg 1987 May; 18(5): 429-36<A HREF="http://www.ncbi.nlm.nih.gov/htbin-post/Entrez/query?db=m&amp;form=6&amp;Dopt=r&amp;uid=87239900">
+	[Medline]</A>. 
+	</P>
+	<LI><P>Chiou TS, Chen SC: Intermediate-term results of endoscopic
+	transaxillary T2 sympathectomy for primary palmar hyperhidrosis. Br
+	J Surg 1999 Jan; 86(1): 45-7<A HREF="http://www.ncbi.nlm.nih.gov/htbin-post/Entrez/query?db=m&amp;form=6&amp;Dopt=r&amp;uid=99149604">
+	[Medline]</A>. 
+	</P>
+	<LI><P>Freeman R, Waldorf HA, Dover JS: Autonomic neurodermatology
+	(Part II): Disorders of sweating and flushing. Semin Neurol 1992
+	Dec; 12(4): 394-407<A HREF="http://www.ncbi.nlm.nih.gov/htbin-post/Entrez/query?db=m&amp;form=6&amp;Dopt=r&amp;uid=93134219">
+	[Medline]</A>. 
+	</P>
+	<LI><P>Goldwyn RM: Editorial: The treatment of axillary
+	hyperhidrosis. Arch Surg 1976 Jan; 111(1): 13<A HREF="http://www.ncbi.nlm.nih.gov/htbin-post/Entrez/query?db=m&amp;form=6&amp;Dopt=r&amp;uid=76087158">
+	[Medline]</A>. 
+	</P>
+	<LI><P>Guttmann L: A demonstration of the study of sweat secretion
+	by the quinazarin method. Proc R Soc Med 1941; 35: 77-8. 
+	</P>
+	<LI><P>Heckmann M: Complications in patients with palmar
+	hyperhidrosis treated with transthoracic endoscopic sympathectomy.
+	Neurosurgery 1998 Jun; 42(6): 1403-4<A HREF="http://www.ncbi.nlm.nih.gov/htbin-post/Entrez/query?db=m&amp;form=6&amp;Dopt=r&amp;uid=98293999">
+	[Medline]</A>. 
+	</P>
+	<LI><P>Heckmann M, Ceballos-Baumann AO, Plewig G: Botulinum toxin A
+	for axillary hyperhidrosis (excessive sweating). N Engl J Med 2001
+	Feb 15; 344(7): 488-93<A HREF="http://www.ncbi.nlm.nih.gov/htbin-post/Entrez/query?db=m&amp;form=6&amp;Dopt=r&amp;uid=21078447">
+	[Medline]</A>. 
+	</P>
+	<LI><P>Herbst F, Plas EG, Fugger R, Fritsch A: Endoscopic thoracic
+	sympathectomy for primary hyperhidrosis of the upper limbs. A
+	critical analysis and long-term results of 480 operations. Ann Surg
+	1994 Jul; 220(1): 86-90<A HREF="http://www.ncbi.nlm.nih.gov/htbin-post/Entrez/query?db=m&amp;form=6&amp;Dopt=r&amp;uid=94296177">
+	[Medline]</A>. 
+	</P>
+	<LI><P>Karpinski RHS: Axillary hyperhidrosis: treatment by excision
+	or by suction adenectomy. Abstract presented at: Northeastern
+	Society of Plastic Surgeons Annual Meeting; September, 1990. 
+	</P>
+	<LI><P>Lillis PJ, Coleman WP 3rd: Liposuction for treatment of
+	axillary hyperhidrosis. Dermatol Clin 1990 Jul; 8(3): 479-82<A HREF="http://www.ncbi.nlm.nih.gov/htbin-post/Entrez/query?db=m&amp;form=6&amp;Dopt=r&amp;uid=90336174">
+	[Medline]</A>. 
+	</P>
+	<LI><P>Mack GW, Shannon LM, Nadel ER: Influence of beta-adrenergic
+	blockade on the control of sweating in humans. J Appl Physiol 1986
+	Nov; 61(5): 1701-5<A HREF="http://www.ncbi.nlm.nih.gov/htbin-post/Entrez/query?db=m&amp;form=6&amp;Dopt=r&amp;uid=87056786">
+	[Medline]</A>. 
+	</P>
+	<LI><P>Minor V: Ein neues Verfahren zu der klinischen Untersuchung
+	der Schweissabsonderung. Dtsch Z Nervenheilkd 1928; 101302-7. 
+	</P>
+	<LI><P>Morgan WP, Hughes LE: The distribution, size and density of
+	the apocrine glands in hidradenitis suppuritiva. Br J Surg 1979 Dec;
+	66(12): 853-6<A HREF="http://www.ncbi.nlm.nih.gov/htbin-post/Entrez/query?db=m&amp;form=6&amp;Dopt=r&amp;uid=80066241">
+	[Medline]</A>. 
+	</P>
+	<LI><P>Murphy R, Harrington CI: Treating hyperhidrosis.
+	Iontophoresis should be tried before other treatments. BMJ 2000 Sep
+	16; 321(7262): 702-3<A HREF="http://www.ncbi.nlm.nih.gov/htbin-post/Entrez/query?db=m&amp;form=6&amp;Dopt=r&amp;uid=20524828">
+	[Medline]</A>. 
+	</P>
+	<LI><P>Odia S, Vocks E, Rakoski J, Ring J: Successful treatment of
+	dyshidrotic hand eczema using tap water iontophoresis with pulsed
+	direct current. Acta Derm Venereol 1996 Nov; 76(6): 472-4<A HREF="http://www.ncbi.nlm.nih.gov/htbin-post/Entrez/query?db=m&amp;form=6&amp;Dopt=r&amp;uid=97137038">
+	[Medline]</A>. 
+	</P>
+	<LI><P>Park DH, Kim TM, Han DG, Ahn KY: A comparative study of the
+	surgical treatment of axillary osmidrosis by instrument, manual, and
+	combined subcutaneous shaving procedures. Ann Plast Surg 1998 Nov;
+	41(5): 488-97<A HREF="http://www.ncbi.nlm.nih.gov/htbin-post/Entrez/query?db=m&amp;form=6&amp;Dopt=r&amp;uid=99043653">
+	[Medline]</A>. 
+	</P>
+	<LI><P>Reinauer S, Neusser A, Schauf G, Holzle E: Iontophoresis with
+	alternating current and direct current offset (AC/DC iontophoresis):
+	a new approach for the treatment of hyperhidrosis. Br J Dermatol
+	1993 Aug; 129(2): 166-9<A HREF="http://www.ncbi.nlm.nih.gov/htbin-post/Entrez/query?db=m&amp;form=6&amp;Dopt=r&amp;uid=95383178">
+	[Medline]</A>. 
+	</P>
+	<LI><P>Shelley WB, Hurley HJ Jr: Studies on topical antiperspirant
+	control of axillary hyperhidrosis. Acta Derm Venereol 1975; 55(4):
+	241-60<A HREF="http://www.ncbi.nlm.nih.gov/htbin-post/Entrez/query?db=m&amp;form=6&amp;Dopt=r&amp;uid=76036542">
+	[Medline]</A>. 
+	</P>
+	<LI><P>Shenaq SM, Spira M, Christ J: Treatment of bilateral axillary
+	hyperhidrosis by suction-assisted lipolysis technique. Ann Plast
+	Surg 1987 Dec; 19(6): 548-51<A HREF="http://www.ncbi.nlm.nih.gov/htbin-post/Entrez/query?db=m&amp;form=6&amp;Dopt=r&amp;uid=88148847">
+	[Medline]</A>. 
+	</P>
+	<LI><P>Skoog T, Thyresson N: Hyperhidrosis of the axillae, a method
+	of surgical treatment. Acta Chir Scand 1962; 124: 531-8. 
+	</P>
+	<LI><P>Skoog T: Excision of the axillary sweat glands. In: Plastic
+	Surgery, New Methods and Refinements. Philadelphia: Saunders; 1974. 
+	</P>
+	<LI><P>Wang HJ, Cheng TY, Chen TM: Surgical management of axillary
+	bromidrosis--a modified skoog procedure by an axillary bipedicle
+	flap approach. Plast Reconstr Surg 1996 Sep; 98(3): 524-9<A HREF="http://www.ncbi.nlm.nih.gov/htbin-post/Entrez/query?db=m&amp;form=6&amp;Dopt=r&amp;uid=96320378">
+	[Medline]</A><A HREF="http://www.wwilkins.com/PRS/0032-10529-96toc.html">
+	[Full Text]</A> . 
+	</P>
+	<LI><P>Wu WH, Ma S, Lin JT, et al: Surgical treatment of axillary
+	osmidrosis: an analysis of 343 cases. Plast Reconstr Surg 1994 Aug;
+	94(2): 288-94<A HREF="http://www.ncbi.nlm.nih.gov/htbin-post/Entrez/query?db=m&amp;form=6&amp;Dopt=r&amp;uid=94316734">
+	[Medline]</A>. 
+	</P>
+</UL>
+<H1>INDEX</H1>
+</BODY>
+</HTML>
+--------------C7DEC55ADC2A3CD744C243CB--
+
