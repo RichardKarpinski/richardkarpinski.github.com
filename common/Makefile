@@ -15,6 +15,8 @@ image_targets=$(patsubst html/%,www/%,$(image_sources))
 targets=$(css_targets) $(html_targets) $(image_targets)
 
 #targets...
+default: all
+
 all: $(targets)
 
 test: $(targets)

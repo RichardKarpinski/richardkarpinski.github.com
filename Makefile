@@ -1,23 +1,25 @@
 patchfile=patch.bz2
 
-default:
-	@echo No default target.
-	@echo Try "make help" for a list of possible targets.
+default: all
 
-patch:
-	bk send - | bzip2 --best > $(patchfile)
+all: main ahh
 
-apply:
-	bzcat $(patchfile) | bk receive
-	bk resolve -a
+main ahh: %: %-default
+
+main-%:
+	make -C main $*
+
+ahh-%:
+	make -C ahh $*
 
 tidy:
 	rm -f *~
 
-clean:
-	rm -f $(patchfile)
+clean: tidy
+
+cleanall: clean main-clean ahh-clean
 
 help:
 	@cat make.help
 
-.PHONY: default patch apply tidy clean help
+.PHONY: default all main ahh main-% ahh-% tidy clean cleanall help
