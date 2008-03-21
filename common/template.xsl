@@ -78,7 +78,7 @@
       <h1><xsl:value-of select="/html/head/title"/></h1><hr/>
       <xsl:apply-templates/>
       <div class="copyright">
-        &#169; Richard Karpinski | 2003 - 2006
+        &#169; Richard Karpinski | 2003 - 2008
       </div>
     </div>
     <!--
