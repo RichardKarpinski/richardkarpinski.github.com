@@ -79,6 +79,7 @@
       <xsl:apply-templates/>
       <div class="copyright">
         &#169; Richard Karpinski | 2003 - 2008
+        <!-- TODO: programmatically generate end year -->
       </div>
     </div>
     <!--
