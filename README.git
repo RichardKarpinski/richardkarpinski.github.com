@@ -1,0 +1,4 @@
+The basic git commants are:
+
+	- git status: show the current state relative to the last committed version.
+	- git diff:
