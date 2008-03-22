@@ -1,0 +1,14 @@
+Dear Rickypoo,
+
+The top-level directory (where this file resides), is just a holding place for a top-level Makefile 
+and for all the "various" subdirectories. The subdirectories are the following:
+	- Makefile:
+	- main:
+	- ahh:
+	- common:
+	- misc:
+	- images:
+	- ...
+
+Yours,
+Dearest, Steffiepoo.
