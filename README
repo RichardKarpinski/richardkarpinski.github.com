@@ -1,0 +1,16 @@
+Dear Rickypoo,
+
+The top-level directory (where this file resides), is just a holding place for a top-level Makefile 
+and for all the "various" subdirectories. The subdirectories are the following:
+
+	- Makefile: manage other directories; run "make help" for details.
+	- main:		the main karpinskimd website files.
+	- ahh:		the axillary hyperhidrosis files.
+	- common:	files shared by main, ahh via symlinks.
+	- misc:		random stuff we want to keep around.
+	- images:	various images that are relevant.
+
+Anything else is cruft.
+
+Yours,
+Dearest, Steffiepoo.

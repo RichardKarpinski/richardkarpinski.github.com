@@ -1,0 +1,19 @@
+The basic git commants are:
+
+	- git status	: show the current state relative to the last committed version.
+	- git diff		: show the actual differences from the last committed version.
+	- git commit -a	: commit all previously know files that have changed.
+	- git add		: tell git to "notice" a changed file; i.e. add it to the commit list.
+	- git rm		: delete a file and stop recording it.
+	- git commit	: commit added/rm'd files only.
+
+Your basic editing cycle will generally simply involve the following steps:
+
+	1.	edit files
+	2.	$ git add <new files>	<= if there are new files, add them;
+								   otherwise, skip this step
+	2a.	$ git commit -a			<= if there are no new files to add,
+								   just skip to here directly
+	Go back to 1.
+
+More details to come...
