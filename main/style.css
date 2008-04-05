@@ -130,3 +130,31 @@ padding-top: 6px;
 float: right;
 color: #999999;
 }
+
+#content .pubtitle {
+	color: red;
+}
+
+.year {
+	color: green;
+}
+
+.volume {
+	color: fuchsia;
+}
+
+.pp {
+	color: gray;
+}
+
+.date {
+	color: aqua;
+}
+
+.booknm {
+	color: yellow;
+}
+
+.year {
+	color: silver;
+}
