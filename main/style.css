@@ -136,25 +136,30 @@ color: #999999;
 }
 
 .year {
-	color: green;
+	font-weight: bold;
 }
 
 .volume {
-	color: fuchsia;
+	font-weight: bold;
+	font-style: italic;
 }
 
 .pp {
-	color: gray;
+	font-weight: normal;
 }
 
 .date {
-	color: aqua;
+	font-weight: normal;
 }
 
 .booknm {
-	color: yellow;
+	font-style: italic;
 }
 
-.year {
-	color: silver;
+.pub {
+	color: dimgray;
+}
+
+.auth {
+	font-weight: bold;
 }
