@@ -1,4 +1,4 @@
-/* Reset: from Eric Meyer--------------------------------------- */
+/* Reset: from Eric Meyer---------------------------------------
 
 html, body, div, span, applet, object, iframe,
 h1, h2, h3, h4, h5, h6, p, blockquote, pre,
@@ -18,7 +18,7 @@ table, caption, tbody, tfoot, thead, tr, th, td {
 	font-family: inherit;
 	vertical-align: baseline;
 }
-/* remember to define focus styles! */
+/* remember to define focus styles! 
 :focus {
 	outline: 0;
 }
@@ -30,7 +30,7 @@ body {
 ol, ul {
 	list-style: none;
 }
-/* tables still need 'cellspacing="0"' in the markup */
+/* tables still need 'cellspacing="0"' in the markup 
 table {
 	border-collapse: separate;
 	border-spacing: 0;
@@ -48,15 +48,7 @@ blockquote, q {
 }
 
 /* --------------------------------------------------------------- */
-
-body {
-margin: 0pt;
-color: black;
-background-color: #00117c;
-font-size: 10pt;
-font-family: "Arial" sans-serif;
-}
-
+/* Header--------------------------------------------------------- */
 #header, #footer {
 color: white;
 background-color: navy;
@@ -80,11 +72,9 @@ line-height: 100%;
 color: white;
 }
 
-.quote {
-padding-left: 20px;
-padding-right: 20px;
-}
+/* Footer--------------------------------------------------------- */
 
+/* Navigation----------------------------------------------------- */
 .navbar {
 font-size: 110%;
 color: white;
@@ -128,6 +118,20 @@ color: #ffffff;
 color: #f3b4d7;
 }
 
+/* Main Structure------------------------------------------------- */
+body {
+margin: 0pt;
+color: black;
+background-color: #00117c;
+font-size: 10pt;
+font-family: "Arial" sans-serif;
+}
+
+.quote {
+padding-left: 20px;
+padding-right: 20px;
+}
+
 #content {
   /* font: same as base */;
 border: 13px solid #999999;
@@ -135,6 +139,10 @@ background: #ffffff;
 clear: both;
 padding: 10px 16px 26px 16px;
 }
+
+
+/* Content-------------------------------------------------------- */
+
 
 #content h1 {
 font-size: 16pt;
@@ -185,6 +193,8 @@ color: #999999;
 #content .pubtitle {
 	color: red;
 }
+/* Bibliography-------------------------------------------------------- */
+
 
 .year {
 	font-weight: bold;
