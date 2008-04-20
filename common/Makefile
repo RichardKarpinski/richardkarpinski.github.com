@@ -22,9 +22,9 @@ all: $(targets)
 test: $(targets)
 	open www/$(index)
 
-www/%.css: %.css csspp.pl
+www/%.css: %.css
 	@mkdir -p www
-	perl csspp.pl $< > $@
+	ln -sf ../$< $@
 
 xhtml/%.xhtml: html/%.html tidy.config
 	@mkdir -p xhtml
