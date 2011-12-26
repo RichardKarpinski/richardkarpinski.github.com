@@ -1,14 +1,17 @@
+---
+background: "#00117c"
+---
 body {
 margin: 0pt;
 color: black;
-background-color: #00117c;
+background-color: {{ page.background }};
 font-size: 10pt;
 font-family: "Arial" sans-serif;
 }
 
 #header, #footer {
 color: white;
-background-color: navy;
+background-color: {{ page.background }};
 }
 
 #header a, #footer a {
