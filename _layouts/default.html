@@ -12,27 +12,67 @@
       <table width="100%" cellpadding="9" cellspacing="0">
         <tr>
           <td align="left">
+            {% if page.name == "Home" %}
+            <a href="index.html" class="current"><b>Home</b></a>
+            {% else %}
             <a href="index.html"><b>Home</b></a>
+            {% endif %}
             <span style="position: relative; top: -1px;">|</span>
+            {% if page.name == "Credentials" %}
+            <a href="credentials.html" class="current"><b>Credentials</b></a>
+            {% else %}
             <a href="credentials.html"><b>Credentials</b></a>
+            {% endif %}
             <span style="position: relative; top: -1px;">|</span>
+            {% if page.name == "Facilities" %}
+            <a href="facilities.html" class="current"><b>Facilities</b></a>
+            {% else %}
             <a href="facilities.html"><b>Facilities</b></a>
+            {% endif %}
             <span style="position: relative; top: -1px;">|</span>
+            {% if page.name == "Procedures" %}
+            <a href="procedures.html" class="current"><b>Procedures</b></a>
+            {% else %}
             <a href="procedures.html"><b>Procedures</b></a>
+            {% endif %}
             <span style="position: relative; top: -1px;">|</span>
+            {% if page.name == "Insurance" %}
+            <a href="insurance.html" class="current"><b>Insurance</b></a>
+            {% else %}
             <a href="insurance.html"><b>Insurance</b></a>
+            {% endif %}
             <span style="position: relative; top: -1px;">|</span>
+            {% if page.name == "Location" %}
+            <a href="location.html" class="current"><b>Location</b></a>
+            {% else %}
             <a href="location.html"><b>Location</b></a>
+            {% endif %}
             <span style="position: relative; top: -1px;">|</span>
+            {% if page.name == "Policies" %}
+            <a href="policies.html" class="current"><b>Policies</b></a>
+            {% else %}
             <a href="policies.html"><b>Policies</b></a>
+            {% endif %}
             <span style="position: relative; top: -1px;">|</span>
-            <a href="contacts.html"><b>Contact Us</b></a>
+            {% if page.name == "Contact" %}
+            <a href="contacts.html" class="current"><b>Contact</b></a>
+            {% else %}
+            <a href="contacts.html"><b>Contact</b></a>
+            {% endif %}
             <span style="position: relative; top: -1px;">|</span>
+            {% if page.name == "FAQ" %}
+            <a href="faq.html" class="current"><b>FAQ</b></a>
+            {% else %}
             <a href="faq.html"><b>FAQ</b></a>
+            {% endif %}
             <br>
           </td>
           <td align="right" style="font-size: 90%">
+            {% if page.name == "Site Map" %}
+            <a href="sitemap.html" class="current"><b>Site Map</b></a>
+            {% else %}
             <a href="sitemap.html"><b>Site Map</b></a>
+            {% endif %}
             <br>
           </td>
         </tr>
